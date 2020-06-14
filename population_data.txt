@@ -1,0 +1,398 @@
+Afghanistan
+127
+Albania
+258
+Algeria
+47
+Andorra
+425
+Angola
+61
+Antigua and Barbuda
+610
+Argentina
+42
+Armenia
+258
+Australia
+9
+Austria
+275
+Azerbaijan
+301
+Bahamas
+72
+Bahrain
+5136
+Bangladesh
+3036
+Belgium
+973
+Belize
+45
+Benin
+270
+Bhutan
+56
+Bolivia
+27
+Bosnia and Herzegovina
+178
+Botswana
+10
+Brazil
+64
+Brunei
+189
+Bulgaria
+163
+Burkina Faso
+194
+Burundi
+1044
+Cambodia
+233
+Cameroon
+135
+Canada
+10
+Cape Verde
+354,
+Central African Republic
+20
+Chad
+31
+Chile
+60,
+China
+377
+Colombia
+105
+Comoros
+1216
+Costa Rica
+256
+Croatia
+187
+Cuba
+264
+Cyprus
+385
+Czech Republic
+351
+Democratic Republic of the Congo
+96
+Denmark
+349
+Djibouti
+121
+Dominica
+252
+Dominican Republic
+560
+Ecuador
+164
+Egypt
+260
+El Salvador
+825
+Equatorial Guinea
+125
+Eritrea
+75
+Estonia
+76
+Swaziland
+173
+Ethiopia
+262
+Federated States of Micronesia
+390
+Fiji
+125
+Finland
+42
+France
+319
+Gabon
+20
+Gambia
+540
+Georgia
+139
+Germany
+603
+Ghana
+329
+Greece
+210
+Grenada
+819
+Guatemala
+421
+Guinea
+129
+Guinea-Bissau
+115
+Guyana
+9
+Haiti
+1078
+Honduras
+211
+Hungary
+272
+Iceland
+9
+India
+1066
+Indonesia
+365
+Iran
+131
+Iraq
+232
+Ireland
+181
+Israel
+1081
+Italy
+518
+Ivory Coast
+207
+Jamaica
+643
+Japan
+863
+Jordan
+310
+Kazakhstan
+17
+Kenya
+212
+Kiribati
+399
+Kosovo
+426
+Kuwait
+642
+Kyrgyzstan
+82
+Laos
+71
+Latvia
+77
+Lebanon
+1741
+Lesotho
+193
+Liberia
+119
+Libya
+10
+Liechtenstein
+621
+Lithuania
+111
+Luxembourg
+615
+Madagascar
+113
+Malawi
+384
+Malaysia
+257
+Maldives
+3257
+Mali
+40
+Malta
+4058
+Marshall Islands
+800
+Mauritania
+10
+Mauritius
+1607
+Mexico
+167
+Moldova
+205
+Monaco
+49107
+Mongolia
+5
+Montenegro
+117
+Morocco
+208
+Mozambique
+93
+Myanmar
+208
+Namibia
+8
+Nauru
+1381
+Nepal
+520
+Netherlands
+1090
+New Zealand
+48
+Nicaragua
+136
+Niger
+49
+Nigeria
+563
+North Korea
+547
+North Macedonia
+209
+Northern Cyprus
+272
+Norway
+43
+Oman
+39
+Pakistan
+709
+Palau
+104
+Palestine
+2141
+Panama
+145
+Papa New Guinea
+50
+Paraguay
+44
+Peru
+65
+Philippines
+939
+Poland
+318
+Portugal
+289
+Quatar
+613
+Republic of the Congo
+41
+Romania
+211
+Russia
+22
+Rwanda
+1217
+Western Sahara
+6
+Saint Kitts and Nevis
+541
+Saint Lucia
+757
+Saint Vincent and the Grenadines
+736
+Samoa
+182
+San Marino
+1471
+São Tomé and Príncipe
+522
+Saudi Arabia
+41
+Senegal
+213
+Serbia
+231
+Seychelles
+551
+Sierra Leone
+285
+Singapore
+20446
+Slovakia
+288
+Slovenia
+266
+Solomon Islands
+62
+Somalia
+62
+Somaliland
+52
+South Africa
+125
+South Korea
+1338
+South Ossetia
+36
+South Sudan
+51
+Spain
+240
+Sri Lanka
+861
+Sudan
+57
+Suriname
+9
+Sweden
+59
+Switzerland
+539
+Syria
+239
+Taiwan
+1689
+Tajikistan
+165
+Tanzania
+153
+Thailand
+336
+Timor-Leste
+203
+Togo
+345
+Tonga
+360
+Transnistria
+292
+Trinidad and Tobago
+685
+Tunisia
+186
+Turkey
+275
+Turkmenistan
+31
+Tuvalu
+1026
+Uganda
+429
+Ukraine
+180
+United Arab Emirates
+303
+United Kingdom
+725
+United States
+87
+Uzbekistan
+189
+Vanuatu
+64
+Vatican City
+2394
+Venezuela
+91
+Vietnam
+752
+Yemen
+165
+Zambia
+56
+Zimbabwe
+100
