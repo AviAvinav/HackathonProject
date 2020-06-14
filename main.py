@@ -22,11 +22,6 @@ def ChemVis():
   window.destroy()
   exit()
 
-def Graphs():
-  os.open('graphs.py')
-  window.destroy()
-  exit()
-  
 def exiting():
   window.destroy()
   exit()
@@ -46,9 +41,6 @@ tk.Button(window, text='Search', width=6, command=search).grid(row=3, column=0, 
 
 #Chem Visualisations
 tk.Button(window, text='Chem Visualisations', width=6, command=ChemVis).grid(row=4, column=0, sticky=W)
-
-#Graphs
-tk.Button(window, text='Graphs', width=6, command=Graphs).grid(row=5, column=0, sticky=W)
 
 #Exit Button
 tk.Button(window, text='Exit', width=6, command=exiting).grid(row=6, column=0, sticky=W)
