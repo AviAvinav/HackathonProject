@@ -1,3 +1,4 @@
+from chempy import mass_fractions
 from chempy import balance_stoichiometry
 import tkinter as tk
 
