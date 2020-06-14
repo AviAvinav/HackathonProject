@@ -83,13 +83,13 @@ def main():
     # escape function
     while (sortBy != 'a') and (sortBy != 'p'):
         print('you have entered a command that does not exist, please try again')
-        sortBy = raw_input('Would you like to sort alphabetically (type a), or by population density (type p): ')
+        sortBy = textEntryBox1.get()
 
     incOrDec: str = textEntryBox2.get()
     # escape function
     while (incOrDec != 'i') and (incOrDec != 'd'):
         print('you have entered a command that does not exist, please try again')
-        incOrDec = raw_input('Would you like to sort in increasing (type i), or decreasing (type d): ')
+        incOrDec = textEntryBox2.get()
 
     # prints sorted list of population densities based on user input
     printSortedList(countries, countryDens, sortBy, incOrDec)
