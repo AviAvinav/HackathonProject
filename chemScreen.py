@@ -9,11 +9,14 @@ window.configure(background="black")
 tk.Label(window, text="Chem Visualisations", bg="black", fg="white", font=("arial", 21)).grid(row=0, column=0, sticky=W)
 tk.Label(window, text="Here you can do stuff in chemistry", bg="black", fg="white", font=("none", 16)).grid(row=1, column=0, sticky=W)
 
+tk.Label(window, text="Enter Reactant: ", bg="black", fg="white", font=("none", 14)).grid(row=2, column=0, sticky=W)
 textEntryBox1 = tk.Entry(window, width=10, bg="black")
-textEntryBox1.grid(row=2, column=0, sticky=W)
+textEntryBox1.grid(row=3, column=0, sticky=W)
 
+tk.Label(window, text="Enter Product: ", bg="black", fg="white", font=("none", 14)).grid(row=2, column=2, sticky=W)
 textEntryBox2 = tk.Entry(window, width=10, bg="black")
-textEntryBox2.grid(row=2, column=2, sticky=W)
+textEntryBox2.grid(row=3, column=2, sticky=W)
 
+tk.Button(window, text="")
 
 window.mainloop()
