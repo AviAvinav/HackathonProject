@@ -1,8 +1,23 @@
 from typing import List, Any
-
-import wikipedia
-import chempy
+import tkinter as tk
 from pip._vendor.distlib.compat import raw_input
+
+window = tk.Tk()
+window.Title("HackathonProject - Poulation Densities")
+window.configure(background="black")
+
+
+tk.Label(window, text="Would you like to sort alphabetically (type a), or by population density (type p): ", bg="black", fg="white", font=("none", 14)).grid(row=0, column=0, sticky=W)
+
+textEntryBox1 = tk.Entry(window, width=10, bg="white", fg="black")   # for a or p
+textEntryBox1.grid(row=1, column=0, sticky=W)
+
+tk.Label(window, text="Would you like to sort in increasing (type i), or decreasing (type d): ", bg="black", fg="white", font=("none", 14)).grid(row=2, column=0, sticky=W)
+
+textEntryBox2 = tk.Entry(window, width=10, bg="white", fg="black")   # for increasing or decreasing
+textEntryBox2.grid(row=3, column=0, sticky=W)
+
+tk.Button(window, text='Sort', width=6, command=sorter).grid(row=4, column=0, sticky=W) #still needs finishing
 
 
 def printSortedList(countries, countryDens, sortBy, incOrDec):
@@ -80,5 +95,8 @@ def main():
     printSortedList(countries, countryDens, sortBy, incOrDec)
 
 
+
 if __name__ == "__main__":
     main()
+
+window.mainloop()
