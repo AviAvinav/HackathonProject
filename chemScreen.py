@@ -1,14 +1,15 @@
-from chempy import mass_fractions
 from chempy import balance_stoichiometry
 import tkinter as tk
 
 x=""
 
+
 #functions
 def balance():
   reac, prod = balance_stoichiometry({textEntryBox1.get()},{textEntryBox2.get()})
-  x=("Reactants: " + dict(reac) + "\n" + "Products: " + dict(proc))
-
+  x=("Stoichiometric coefficients:" + "\n" + "Reactants: " + dict(reac) + "\n" + "Products: " + dict(prod))
+  
+  
 window = tk.Tk()
 window.Title("Hackathon Project - ChemVis")
 window.configure(background="black")
@@ -34,4 +35,3 @@ labelx = tk.Label(window, text=x, bg="white", fg="black", width=75, height=6, fo
 labelx.grid(row=5, column=0, sticky=W)
 
 window.mainloop()
-
