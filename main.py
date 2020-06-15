@@ -12,11 +12,6 @@ def population_densities():
   window.destroy()
   exit()
 
-def search():
-  os.open('search.py')
-  window.destroy()
-  exit()
-
 def ChemVis():
   os.open('chemScreen.py')
   window.destroy()
