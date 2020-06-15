@@ -1,1 +1,1 @@
-# covidResearcher
+# COVIDResearcher
