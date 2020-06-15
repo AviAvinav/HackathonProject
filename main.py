@@ -3,7 +3,7 @@ import os
 
 #code for main screen
 window = tk.Tk()
-window.title("Hackathon Project")
+window.title("Covid Researcher")
 window.configure(background="black")
 
 #functions
